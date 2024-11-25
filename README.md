@@ -91,9 +91,12 @@ Yes, this graph might be difficult to interpret at first glance, but the followi
 |:----------------------------------------:|
 | *Fig. 4: Highest Debt Year for Each State*  |
 
-- 26 states peaked in 2024.
-- 2 states peaked in 2020.
-- 2 states peaked in 2017.
+Larger States (e.g., Maharashtra, Uttar Pradesh, West Bengal): These have moderate debt per person amounts in the tens of thousands, which aligns with their large populations that spread out the debt.
+
+Smaller, High-Debt States (e.g., Goa, Sikkim, Himachal Pradesh): States like Goa and Sikkim show higher debt per person amounts (above ₹1 lakh in many cases) because they have smaller populations but relatively high outstanding liabilities.
+
+Special Cases (e.g., NCT Delhi): Delhi’s debt per person is noticeably low compared to other states, which could be due to a combination of lower per capita liabilities or higher population density, thus distributing debt more thinly.
+
 
 ##### From which we can make out that debt has been growing for most states, since highest accumulated debt is from 2024.
 
