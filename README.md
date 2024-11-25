@@ -158,7 +158,8 @@ We analyze the relationship between state size (km²) and debt.
 |:----------------------------------------:|
 | *Fig. 10: Spearman's Correlation Between State Size and Debt*  |
 
-The correlation indicates that larger states tend to accumulate more debt.
+The Correlation can be observed growing from 2015-2024, indicating that larger states  states tend to accumulate more debt.
+
 
 #### Why?
 Larger states may require more infrastructure, such as:
@@ -180,13 +181,13 @@ To address this, we analyze population density instead.
 |:----------------------------------------:|
 | *Fig. 12: Correlation Between Debt (2024) and Population Density*  |
 
-##### Both Fig. 11 and Fig. 12 show weak correlations, confirming that population density does not significantly impact debt levels.
+##### Both Fig. 11 and Fig. 12 show moderate correlations, confirming that population density does not significantly impact debt levels.
 
 
 ### Summary of Analysis: Population, Area, and Population Density vs. Debt
-1. **Population:** Positive correlation—states with higher populations tend to have more debt.
-2. **State Size:** Positive correlation—larger states tend to accumulate more debt.
-3. **Population Density:** Weak correlation—density has minimal impact on debt levels.
+1. **Population:** Positive correlation-States with higher populations tend to have more debt.
+2. **State Size:** Positive correlation-Larger states tend to accumulate more debt.
+3. **Population Density:** Weak to Moderate correlation-Population Density has weak/moderate impact on debt levels.
 
 ## Literacy Rate
 ##### We have an accuracy concern for this part of the analysis since the literacy rates are ass of the 2011 Census and considering the recent advancements in the Indian Education Sector we feel like our values can be outdated.
