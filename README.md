@@ -262,4 +262,5 @@ Population density was found to have minimal impact on state debt, indicating th
 5) Literacy Rate:
 The literacy rate appears to have no significant correlation with state debt, suggesting that educational attainment alone does not directly affect financial liabilities.
 
-
+## License
+This project is licensed under the terms & conditions (T&Cs) of the Apache License 2.0. If you're interested in reading more about it, please take a look at the [LICENSE](./LICENSE) document.
